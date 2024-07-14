@@ -1,0 +1,61 @@
+﻿  HierarchyZbuffer.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.h(34,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(32,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(236,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(237,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(238,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(239,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(243,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(271,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(276,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(297,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\HierarchyZbuffer.cpp(297,38): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Model.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.h(34,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.cpp(116,10): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.cpp(117,10): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.cpp(137,21): warning C4018: “<”: 有符号/无符号不匹配
+  OCTree.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTree.cpp(39,56): warning C4018: “>”: 有符号/无符号不匹配
+  OCTreeHierarchyZbuffer.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.h(34,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(31,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(228,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(229,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(230,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(231,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(235,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(263,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(268,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(289,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(289,37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(320,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(321,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(322,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(323,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\OCTreeHierarchyZbuffer.cpp(327,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ScanLineZBuffer.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.h(34,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(114,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(122,19): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(130,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(141,21): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(218,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\ScanLineZBuffer.cpp(218,39): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\Model.h(34,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(92,55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(92,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(92,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(110,55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(110,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(110,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(128,55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(128,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14093\Desktop\ZBuffer\ZBuffer\main.cpp(128,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  10 of 1087 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ZBuffer.vcxproj -> C:\Users\14093\Desktop\ZBuffer\Release\ZBuffer.exe
